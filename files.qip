@@ -1,0 +1,7 @@
+set_global_assignment -name QIP_FILE rtl/T65/T65.qip
+set_global_assignment -name QIP_FILE rtl/TIA/TIA.qip
+set_global_assignment -name VHDL_FILE rtl/A6507.vhd
+set_global_assignment -name VHDL_FILE rtl/A6532.vhd
+set_global_assignment -name VHDL_FILE rtl/A2601Core.vhd
+set_global_assignment -name VHDL_FILE rtl/A2601top.vhd
+set_global_assignment -name SYSTEMVERILOG_FILE Atari2600.sv
